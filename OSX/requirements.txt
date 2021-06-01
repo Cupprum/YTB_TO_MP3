@@ -2,4 +2,4 @@ progressbar2==3.34.2
 pydub==0.20.0
 pytube==6.4.2
 bs4==0.0.1
-urllib3==1.13.1
+urllib3==1.26.5
